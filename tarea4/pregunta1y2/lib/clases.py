@@ -1,4 +1,4 @@
-from random import randint,random,uniform
+from random import randint
 
 
 class Sorteo:
